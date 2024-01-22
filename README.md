@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ola tunji 
--  I'm a Front-end Developer passionate about creating high-quality web experiences.
--  I'm committed to crafting digital solutions that not only meet your expectations but also exceed them
+-  I'm a Full stack Developer passionate about creating high-quality web experiences.
+
 
 
 <!---
